@@ -1,0 +1,154 @@
+{
+   "checksum": "11be13b4cd48e49b33ef0a53611c7dc3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13240928218850625",
+            "guid": "3e8d164c-ca70-46fb-bf64-5760a71aeff1",
+            "id": "32",
+            "name": "Harvard - Citing and referencing - Library guides at Monash University",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://guides.lib.monash.edu/citing-referencing/harvard"
+         }, {
+            "date_added": "13240929802080160",
+            "guid": "0aab2b0d-7d44-42e2-a7fc-fcee80380583",
+            "id": "33",
+            "name": "Homepage - University of Tasmania",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mylo.utas.edu.au/d2l/home"
+         }, {
+            "date_added": "13240932962807005",
+            "guid": "cca53b63-34e0-4301-b202-47aa7db57c31",
+            "id": "34",
+            "name": "百度一下，你就知道",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.baidu.com/"
+         }, {
+            "date_added": "13276178094896216",
+            "guid": "58cdb905-ff68-4950-97f6-d5a2ae846906",
+            "id": "35",
+            "name": "新人人影视_人人美剧_人人看_美剧剧排行榜_美剧天堂_yyets人人影视视 _ 新人人影视",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.rrentv.com/?__cf_chl_managed_tk__=pmd_RC4q.QF0_DxVLBnIfgqN0ZXyTNLmabMy.dOO1xY0vmI-1631704446-0-gqNtZGzNAuWjcnBszQqR"
+         }, {
+            "date_added": "13290219121389808",
+            "guid": "4a6027cd-c91e-4f75-88fe-407fe3380913",
+            "id": "36",
+            "name": "PTE-PTE考试-免费PTE课程-PTE猩际",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.apeuni.com/zh-CN/pte/user_center/mock/list?&type=mock"
+         }, {
+            "date_added": "13290599058450627",
+            "guid": "046cee52-28ba-49b6-81b8-d9dc9c5e1277",
+            "id": "37",
+            "name": "❗announcements",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://discord.com/channels/930169342996410459/937797153789714452"
+         }, {
+            "date_added": "13293684659419730",
+            "guid": "0eb00a63-0e5a-4f26-8e26-a13d31a1c06e",
+            "id": "38",
+            "name": "Iterate Over a Map in Kotlin | Baeldung on Kotlin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.baeldung.com/kotlin/iterate-map"
+         }, {
+            "date_added": "13293694290647058",
+            "guid": "7106c7b3-6a7d-4780-b7e8-7187d9ae4324",
+            "id": "39",
+            "name": "phpLiteAdmin",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ictteach-www.its.utas.edu.au/sli37/phpliteadmin/"
+         }, {
+            "date_added": "13293779436003398",
+            "guid": "5682d61e-141e-48a6-a3c1-4298853acdca",
+            "id": "40",
+            "name": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://console.firebase.google.com/u/0/&followup=https://console.firebase.google.com/u/0/",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://console.firebase.google.com/u/0/&followup=https://console.firebase.google.com/u/0/"
+         }, {
+            "date_added": "13295278483562146",
+            "guid": "9e9123b0-38e9-482d-bcd5-b3da50911213",
+            "id": "41",
+            "name": "Homepage",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ictteach-www.its.utas.edu.au/sli37/tut61/wine.php"
+         }, {
+            "date_added": "13296792355136372",
+            "guid": "a8f3a5c6-6a46-4410-beda-8e46399a7c1a",
+            "id": "42",
+            "name": "/var/www/html - File Manager — Usermin 1.840 (Redhat Enterprise Linux 8)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ictteach-usermin.its.utas.edu.au/filemin/?xnavigation=1"
+         }, {
+            "date_added": "13297664990398995",
+            "guid": "58cde025-5cb0-44fc-b075-fbdb705dacc4",
+            "id": "43",
+            "name": "Laravel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ictteach-www.its.utas.edu.au/sli37/myApp_1/public/index.php/products"
+         }, {
+            "date_added": "13297829760091468",
+            "guid": "919b4ce9-4416-4302-bb80-67d699456ccb",
+            "id": "44",
+            "name": "Laravel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ictteach-www.its.utas.edu.au/sli37/myApp/public/index.php/computers"
+         } ],
+         "date_added": "13298801628123288",
+         "date_modified": "13297829760091468",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298801628123300",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13298801628123302",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCMwY3D2BAQAAEgAgASoYcUVCcjZpbXcxUGtwd2pTQlpSTGtKQT09EqkBCCgSpAEKHG5lTFAwMkJqQko2WkFGd3B6QjdQa0lBNjlDZz0SJDU2ODJkNjFlLTE0MWUtNDhhNi1hM2MxLTQyOTg4NTNhY2RjYRgAIAAoADD3zs7pkzA4+82nkoAwQPvNp5KAMEocRG1oeXpHQnJhQ0VwL1duTEFHMmdUcTBvQVNNPVogIh7//WV5OGlBSVB6Mzk0cnVFU0MwaDBjOStRN2RjOD1lEDD/5BKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ4NGNkMjRmZS1jMDk4LTU2N2ItODg1ZC05NjhhNGVmM2VjYzcYACAAKAAwzrzv4r4uOPq77+K+LkD6u+/ivi5KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqkBCCYSpAEKHE8xVm0yRmRVT3F5YSsvZVU1TlV0ZENFRjhmOD0SJDBlYjAwYTYzLTBlNWEtNGYyNi04ZTI2LWExM2QzMWExYzA2ZRgAIAIoADD3zs7pkzA4ye2O5f8vQNuv8O6TMEocRVVmVytoWXpOaFdaV3YvaEJpMTJ4VFVEcXJFPVogIh7/7is5eWN2MTlNT0xibVp0bWVxV3dSeitjY25uTT1lS26HOBKoAQgiEqMBChxGMUthQ3htcnVQeHk4KzVTZ1FOTyt1NWEvek09EiRjY2E1M2I2My0zNGUwLTQzMDEtYjIwMi00N2FhN2RiNTdjMzEYACAAKAAw57LT/dYvOIOw0/3WL0CDsNP91i9KHFlrSk1kenRKaFdUSUNjVGs3MENKWTQ3SkxOcz1aHyId0WtKNllabDdCUXpBZlFiaWhuZ21Eb2h6bnBSST1lAAAAABKoAQgkEqMBChxJVmQxMVdLc3lYdVJhbjRhTHloeURIQWFyRVE9EiQ0YTYwMjdjZC1jOTFlLTRmNzUtODhmZS00MDdmZTMzODA5MTMYACACKAAw987O6ZMwON6Jz/DyL0DZr/DukzBKHGlQTllaNmxCUlFUUlFhbk1Qa05na0k4RDUxYz1aHyId9FE0N2RnUjIvdTEvT1lDekxEOUVZRzBxeURqRT1l/EbwOBKpAQgpEqQBChxVa0NpVW9GQ1E5Qy90VFFNNVJ0UmI3LzhrTVE9EiQ5ZTkxMjNiMC0zOGU5LTQ4MmQtYmNkNS1iM2RhNTA5MTEyMTMYACAAKAAw9JeO3YUwOOyYjt2FMEDsmI7dhTBKHFNFODFkdDNlSCtNL1JDcDdHZXhsdEdZWmUvYz1aICIe//96K1JSK1JmZnEycFdLd05JaForeDhydHlpODg9ZQAAAAASpwEIIBKiAQocTml4Wm02cWtTclFGOWYvVjVHMkhBVW8wblk4PRIkM2U4ZDE2NGMtY2E3MC00NmZiLWJmNjQtNTc2MGE3MWFlZmYxGAAgAigAMPfOzumTMDiFrZiT8C9A0q/w7pMwShxXUXViZHFTN2lLcitxZU1iQUZIaHZmaTlsc0k9Wh4iHEZaMTZRQlJ0dFJUSTNIazVIS2piTFJQOXkzND1llXGVmhKoAQgjEqMBChw2U3haZ1Z2eGM5MS9wVlh6SUFPaG0xMlVnSTA9EiQ1OGNkYjkwNS1mZjY4LTQ5NTAtOTdmNi1kNWEyYWU4NDY5MDYYACACKAAw987O6ZMwOJWtmJPwL0DXr/DukzBKHGtSSzI1Z2UybVY1bUtIYTBheW50czVnaEVBTT1aHyId6FZWWkVEbEVqRlExMDlOOGwyYS92VnJRcCtIVT1lFGxMCRKpAQgnEqQBChxUSVJMNXEvazNTRjcveCtUUmQrL25NU05vUTA9EiQ3MTA2YzdiMy02YTdkLTQ3ODAtYjdlOC03MTg3ZDlhZTQzMjQYACAAKAAw987O6ZMwOMDX2un/L0DA19rp/y9KHFpkcEhCYm5ZSTluZUw0V2dodzNGdlNxczJrcz1aICIe//s0UHBpMDBQenh1alE3VnlKc0VwMC9JSS9ZVnM9ZS1BdokSqAEIJRKjAQoccStLc0JXU1RzNkdyU2tEbGNscWh3UXZVMVhVPRIkMDQ2Y2VlNTItMjhiYS00OWI2LTgxYjgtZDlkYzljNWUxMjc3GAAgAigAMPfOzumTMDjl4uSl9C9A2q/w7pMwShxOa2Ftbk05UTNzWXZwWkxjUHp0ZXhoSlNDdkU9Wh8iHfpaclA3VEJQblk5ZitxTlAzaFNJdWJ2bCtzYVE9ZfSAIboSqgEIKxKlAQocVkZVVEYvTzZnVlJXMUZwTmRTTU5pYStyT3VjPRIkNThjZGUwMjUtNWNiMC00NGZjLWIwNzUtZmJkYjcwNWRhY2M0GAAgACgAMOf+is+OMDjj/4rPjjBA4/+Kz44wShxiQTNUaEJHMVJ4Q2d2ZytrTzlucFNTK1Zldm89WiEiH///71VFTVJnY3JKWDh0ajdPeHgyME9mdzFxdGZ6WT1lAAAAABKoAQghEqMBChxsK3NOclROdHNDcUJQR01yaVdKT2VpcTF0cmc9EiQwYWFiMmIwZC03ZDQ0LTQyZTItYTdmYy1mY2VlODAzODA1ODMYACACKAAw987O6ZMwOPasmJPwL0DWr/DukzBKHGhCbUhhZThwUG5TWWUyaW1mQzNPUy81TjYwZz1aHyIdo0FoWDU5ZzF4RVB0TmFrdy91QytNbjgrb2tFUT1l6+sF/RKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmNDk1YTk2NC0yY2IyLTUyMzUtOTRmYy1kOWI1MzNhZjlkNmQYACAAKAAwybzv4r4uOPq77+K+LkD6u+/ivi5KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqoBCCwSpQEKHDlObGVlZzhiVXpJK1RCMFQ3RVBxSUI5dHJMaz0SJDkxOWI0Y2U5LTQ0MTYtNDMwMi1iYjgwLTY3ZDY5OTQ1NmNjYhgAIAAoADDq1tOdjzA439fTnY8wQN/X052PMEocZVhtMXJVTXZ5RDhhRkdBNHV6bDZaVEtPNWJ3PVohIh////dIT1RROVI3WW1zaXo3SzRKUjlGRkU3UDB0T1U9ZQAAAAASqgEIKhKlAQocejZIQkFLdFFvcS93dFp1Y1E3WFBGbGNPUGxZPRIkYThmM2E1YzYtNmE0Ni00NDEwLWJlZGEtOGU0NjM5OWE3YzFhGAAgACgAMJ7L/a6LMDiYzP2uizBAmMz9roswShxKeTBZdGVTbVFKWEsrTmgvaSswN2xmRC9XZEk9WiEiH///3nhaR0VhL2E3aFRrYkI2bGJlRmxiMVNRTUp0ND1lIqG7OBKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRmODlhYmFmMS02ZWYyLTViNGEtYWM2YS0zMzhlYjljZDVjNjYYACAAKAAwyrzv4r4uOPq77+K+LkD6u+/ivi5KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
